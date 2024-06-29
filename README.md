@@ -47,17 +47,10 @@ The CCTRS can be used for various computational linguistics and linguistics rese
    ```
 3. **Explore the data and scripts**: The `data/` directory contains the annotated corpus, and the `scripts/` directory includes tools for processing and analysis.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-This project was supported by [Your Organization/Institution].
 
 ---
 
@@ -69,7 +62,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/CCTRS.git
+   git clone https://github.com/fivehills/CCTRS.git
    ```
 2. **Navigate to the project directory**:
    ```sh
@@ -104,7 +97,7 @@ Detailed documentation is available in the `docs/` directory. This includes the 
 
 ## Contact
 
-For any questions or issues, please open an issue on GitHub or contact [Your Email](mailto:youremail@example.com).
+For any questions or issues, please open an issue on GitHub or contact [sharpksun@hotmail.com](mailto:sharpksun@hotmail.com).
 
 ---
 
