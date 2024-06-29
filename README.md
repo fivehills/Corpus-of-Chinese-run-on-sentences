@@ -9,6 +9,16 @@ This repository contains resources for the project "Constructing the Corpus of C
 
 “Run-on” sentences are a typical and prevalent form of discourse/text in Chinese. Despite their widespread use, previous studies have only explored “run-on” sentences using small-scale examples. To address this gap and facilitate computational tasks in realistic contexts, we have developed this discourse corpus.
 
+## Cite:
+```
+@inproceedings{sun2022constructing,
+  title={Constructing the Corpus of Chinese Textual ‘Run-on’Sentences (CCTRS): Discourse Corpus Benchmark with Multi-layer Annotations},
+  author={Sun, Kun and Wang, Rong},
+  booktitle={Proceedings of the 5th International Conference on Natural Language and Speech Processing (ICNLSP 2022)},
+  pages={265--276},
+  year={2022}
+}
+```
 ## Corpus Details
 
 - **Corpus Size**: 500 “run-on” sentences
